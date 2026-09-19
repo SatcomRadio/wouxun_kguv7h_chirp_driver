@@ -46,7 +46,7 @@ You need to press this button to download the file
 
 <img src="./doc/save.png" alt="Save file" width="200"/>
 
-9 - You can now edit advanced features of the radio such as RX, modulation, bands and power levels.
+9 - You can now edit advanced features of the radio such as band limits, etc.
 
 10 - Once you are happy with the results go again to `File->Save As` and save it as `ModdedFW.img`
 
